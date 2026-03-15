@@ -29,7 +29,7 @@ Enter house size: 2000
 Enter number of bedrooms: 3
 Enter house age: 5
 
-Predicted House Price: 380000
+Predicted House Price: 4206951
 ---
 ## 🎯 Learning Outcomes
 
